@@ -43,7 +43,7 @@ movie_A \t movie_C=relation_normed
 movie_B \t movie_C=relation_normed  
 …
 #### Map-reduce job 4: Multiply normalized co-occurrence matrix and rating matrix
-**Mapper1 input:**  
+**Mapper 1 input:**  
 rows of moive_id \t moive_id=relation_normed  
 **Mapper 2 input:**  
 rows of user_id, movie_id, rating  
